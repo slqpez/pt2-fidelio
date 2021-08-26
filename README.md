@@ -16,7 +16,7 @@ Se tuvo un presupuesto inicial de las horas en las que se podía desarrollar la 
 
 Después de haber concluído la prueba, se obtuvieron los siguientes tiempos aproximados.
 
-![Tiempo final](https://res.cloudinary.com/slqpez/image/upload/v1629981450/timpoFinalPT2_muzufy.png)
+![Tiempo final](https://res.cloudinary.com/slqpez/image/upload/v1629982591/timpoFinalPT2PNG_vv3grj.png)
 
 
 
